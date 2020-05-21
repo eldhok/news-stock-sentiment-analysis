@@ -4,6 +4,8 @@ It is basically the measurement of positive and negative languages.
 
 The project uses news sentimental analysis to illustrate how stock prices and news articles are related.
 
+Work Flow:
+
 - Sentimental Analysis is performed on news articles scrapped from news websites to generate corresponding Sentiment Scores
 - Stock prices were collected from Yahoo finance
 - Sentiment scores generated and Stock prices collected are uploaded to Azure Cloud
